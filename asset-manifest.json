@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lletov/dashboard_react/static/css/main.fe26b5a0.css",
+    "main.js": "/lletov/dashboard_react/static/js/main.96321757.js",
+    "static/js/787.db65dfc8.chunk.js": "/lletov/dashboard_react/static/js/787.db65dfc8.chunk.js",
+    "index.html": "/lletov/dashboard_react/index.html",
+    "main.fe26b5a0.css.map": "/lletov/dashboard_react/static/css/main.fe26b5a0.css.map",
+    "main.96321757.js.map": "/lletov/dashboard_react/static/js/main.96321757.js.map",
+    "787.db65dfc8.chunk.js.map": "/lletov/dashboard_react/static/js/787.db65dfc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe26b5a0.css",
+    "static/js/main.96321757.js"
+  ]
+}
