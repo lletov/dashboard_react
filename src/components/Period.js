@@ -7,7 +7,7 @@ export default function Period() {
         <p>Years period of parsed data</p>
         <div className='period-content'>
             <div className='card-content'><h1>1901</h1></div>
-            <div><img src='./../img/icons/arrow.png' alt='to'></img></div>
+            <div><img src='./img/icons/arrow.png' alt='to'></img></div>
             <div className='card-content'><h1>2021</h1></div>
         </div>
     </div>
