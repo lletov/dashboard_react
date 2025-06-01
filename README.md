@@ -10,3 +10,6 @@ Try it here: [Dashboard page](https://lletov.github.io/dashboard_react/)
 - **SCSS**: Used for styling components, offering nested rules and variables for maintainable CSS.
 - **HTML**: Used in the public directory, likely for the main index.html file that serves as the entry point.
 
+### 💻 Responsiveness
+Desktop only (> 1200 px (Desktop))
+
